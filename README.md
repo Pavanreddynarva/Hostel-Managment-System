@@ -11,7 +11,7 @@ A full-stack web application designed to streamline hostel management for studen
 
 ## 🛠️ Tech Stack
 
-* **Frontend**: Angular
+* **Frontend**: Css + Html + Java Script + Type Script + React js
 * **Backend**: Node.js + Express.js
 * **Database**: MongoDB
 * **Authentication**: JWT-based
